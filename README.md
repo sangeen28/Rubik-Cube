@@ -1,6 +1,8 @@
 # Rubik’s Cube Solver (Streamlit)
 
 A Streamlit web app to scramble and solve a Rubik’s Cube using:
+
+- https://rubik-cube-jne2ldq82akvf5cnrm3ukm.streamlit.app/
 - **Baseline tabular Q-learning agent** (`Agent.py`)
 - **Optional advanced agent** with beam search + heuristic guidance (`agent2.py`)
 
